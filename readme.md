@@ -72,7 +72,7 @@ Test Plan trong JMeter được xây dựng gồm các request chính:
 
 Hình ảnh cấu trúc Test Plan:
 
-![JMeter Test Plan Tree](./jmeter-tree.png)
+![JMeter Test Plan Tree](./test_plan.png.png)
 
 ---
 
@@ -314,41 +314,3 @@ Nhìn chung, MiniSocial đạt yêu cầu kiểm thử hiệu năng ở mức đ
 * Chạy lại kiểm thử sau khi sửa lỗi để đánh giá regression performance.
 
 ---
-
-## 14. Hình ảnh minh chứng
-
-### Cấu trúc Test Plan
-
-![JMeter Tree](./jmeter-tree.png)
-
-### Cấu hình đăng nhập
-
-![Post Login](./post_login.png)
-
-### Cấu hình JSON Extractor
-
-![JSON Extractor](./json_extractor.png)
-
-### Cấu hình tạo bài viết
-
-![Post Create](./post_create.png)
-
-### Kết quả tạo bài viết
-
-![Post Create Tree](./post_create_tree.png)
-
-### Kết quả lấy feed
-
-![Post Get Tree](./post_get_tree.png)
-
-### Bảng kết quả
-
-![JMeter Table](./jmeter-table.png)
-
-### Aggregate Report
-
-![Aggregate Report](./aggregate.png)
-
-### Summary Report
-
-![Summary Report](./summary.png)
