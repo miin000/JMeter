@@ -72,7 +72,7 @@ Test Plan trong JMeter được xây dựng gồm các request chính:
 
 Hình ảnh cấu trúc Test Plan:
 
-![JMeter Test Plan Tree](./test_plan.png.png)
+![JMeter Test Plan Tree](./test_plan.png)
 
 ---
 
