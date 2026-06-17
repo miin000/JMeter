@@ -180,7 +180,7 @@ Thông tin request:
 | Thành phần | Giá trị                                           |
 | ---------- | ------------------------------------------------- |
 | Method     | GET                                               |
-| API        | `/api/v1/posts/feed`                              |
+| API        | `/api/v1/posts/:id`                              |
 | Header     | Authorization Bearer Token                        |
 | Mục đích   | Kiểm tra khả năng tải danh sách bài viết/newsfeed |
 
